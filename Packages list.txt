@@ -41,6 +41,7 @@ mesa
 rclone
 android-tools
 traceroute
+ffmpeg
 
 -- KDE --
 sddm
@@ -60,6 +61,7 @@ networkmanager
 gwenview
 spectacle
 koko
+gst-libav #required for playing video in koko
 okular
 
 -- Multimedia KDE --
