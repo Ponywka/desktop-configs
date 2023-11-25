@@ -1,0 +1,157 @@
+-- Base --
+base
+base-devel
+linux
+linux-firmware
+htop
+btrfs-progs
+zip
+unzip
+unrar
+p7zip
+vim
+mc
+git
+git-lfs
+rsync
+dhcpcd
+tmux
+less
+fuse2
+(AUR) yay
+ncdu
+alsa-utils
+wget
+arch-install-scripts
+
+-- Boot --
+grub
+grub-btrfs
+efibootmgr
+os-prober
+breeze-grub
+
+-- Drivers --
+nvidia-open
+nvidia-settings
+mesa
+# Boot kernel: nvidia_drm.modeset=1
+
+-- Some CLI stuff --
+rclone
+android-tools
+traceroute
+
+-- KDE --
+sddm
+plasma
+plasma-wayland-session
+konsole
+dolphin
+dolphin-plugins
+kio-admin
+kdegraphics-thumbnailers
+ffmpegthumbs
+kate
+ark
+networkmanager
+
+-- Graphical KDE --
+gwenview
+spectacle
+koko
+okular
+
+-- Multimedia KDE --
+elisa
+kdenlive
+
+-- KDE Utilities --
+kweather
+kclock
+kcalc
+filelight
+keysmith
+sweeper
+print-manager
+markdownpart
+kcron
+khelpcenter
+kompare
+lokalize
+kdeconnect
+kmag
+kmousetool
+kontrast
+
+-- KDE System --
+ksystemlog
+
+-- KDE Games --
+kpat
+kmines
+kblocks
+
+-- KDE Talk --
+neochat
+tokodon
+
+-- KDE Remote --
+krdc
+freerdp
+libssh
+libvncserver
+krfb
+
+-- GUI --
+vlc
+mpv
+firefox
+telegram-desktop
+discord
+flameshot
+qbittorrent
+obs-studio
+(AUR) obs-linuxbrowser-bin
+libreoffice-still
+(AUR | ?) openrgb-bin
+krita
+(AUR | ?) anydesk-bin
+(?) blender
+thunderbird
+
+-- System --
+gnome-disk-utility
+gparted
+partitionmanager
+
+-- Virt --
+libvirt
+qemu-desktop
+virt-manager
+
+-- Development --
+(AUR) ngrok
+(AUR) insomnia-bin
+docker
+docker-compose
+docker-buildx
+dbeaver
+go
+go-tools
+npm
+nodejs
+yarn
+
+-- Games --
+fceux
+(multilib) steam
+(multilib) lib32-nvidia-utils
+(multilib) wine
+mono
+
+-- I don't like my ISP --
+wireguard-tools
+(AUR) nekoray-bin
+(AUR | ?) hysteria-bin
+(?) libxcrypt-compat
