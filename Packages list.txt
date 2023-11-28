@@ -110,6 +110,7 @@ vlc
 mpv
 firefox
 telegram-desktop
+webkit2gtk #required for bot web-menu's in telegram-desktop
 discord
 flameshot
 qbittorrent
