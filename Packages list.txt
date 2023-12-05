@@ -153,6 +153,7 @@ fceux
 (multilib) lib32-nvidia-utils
 (multilib) wine
 mono
+jre17-openjdk #minecraft
 
 -- I don't like my ISP --
 wireguard-tools
