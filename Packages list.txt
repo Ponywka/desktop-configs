@@ -32,7 +32,7 @@ os-prober
 breeze-grub
 
 -- Drivers --
-nvidia-open
+nvidia
 nvidia-settings
 mesa
 # Boot kernel: nvidia_drm.modeset=1
