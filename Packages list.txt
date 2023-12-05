@@ -24,6 +24,7 @@ alsa-utils
 wget
 arch-install-scripts
 neofetch
+(?) nload
 
 -- Boot --
 grub
@@ -123,6 +124,7 @@ krita
 (AUR | ?) anydesk-bin
 (?) blender
 thunderbird
+(?) audacity
 
 -- System --
 gnome-disk-utility
@@ -148,6 +150,7 @@ nodejs
 yarn
 (?) kubectl
 (?) minikube
+(?) wireshark-qt
 
 -- Games --
 fceux
