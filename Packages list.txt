@@ -23,6 +23,7 @@ ncdu
 alsa-utils
 wget
 arch-install-scripts
+neofetch
 
 -- Boot --
 grub
