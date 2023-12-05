@@ -146,6 +146,8 @@ go-tools
 npm
 nodejs
 yarn
+(?) kubectl
+(?) minikube
 
 -- Games --
 fceux
