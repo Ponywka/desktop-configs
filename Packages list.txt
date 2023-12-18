@@ -52,6 +52,7 @@ plasma-wayland-session
 konsole
 dolphin
 dolphin-plugins
+drkonqi
 kio-admin
 kdegraphics-thumbnailers
 ffmpegthumbs
