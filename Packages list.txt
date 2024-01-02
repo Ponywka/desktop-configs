@@ -164,6 +164,7 @@ fceux
 (multilib) wine
 mono
 mangohud
+jre8-openjdk #minecraft
 jre17-openjdk #minecraft
 
 -- I don't like my ISP --
