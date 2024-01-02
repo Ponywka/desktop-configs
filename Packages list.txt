@@ -116,6 +116,7 @@ krfb
 vlc
 mpv
 firefox
+(?) chromium
 telegram-desktop
 webkit2gtk #required for bot web-menu's in telegram-desktop
 discord
