@@ -45,6 +45,8 @@ ffmpeg
 
 -- CLI nerd --
 neofetch
+btop
+(AUR) cli-visualizer
 (?) nload
 
 -- KDE --
