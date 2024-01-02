@@ -23,8 +23,6 @@ ncdu
 alsa-utils
 wget
 arch-install-scripts
-neofetch
-(?) nload
 
 -- Boot --
 grub
@@ -44,6 +42,10 @@ rclone
 android-tools
 traceroute
 ffmpeg
+
+-- CLI nerd --
+neofetch
+(?) nload
 
 -- KDE --
 sddm
