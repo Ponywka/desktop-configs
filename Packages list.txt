@@ -116,6 +116,7 @@ krfb
 vlc
 mpv
 firefox
+filezilla
 (?) chromium
 spotify-launcher
 telegram-desktop
